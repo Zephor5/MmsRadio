@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="app_name">NetRadio</string>
+    <string name="error_list">列表加载失败</string>
+
+</resources>
